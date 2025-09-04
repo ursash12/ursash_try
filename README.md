@@ -1,2 +1,3 @@
 # ursash_try
-my first repository by aditya
+my first repository 
+thanks
