@@ -3,9 +3,9 @@ int main()
 {
     int a,b;
     int operator;
-    printf ("1.Addition 2.substraction 3.Multiplication 4.Division 5.Modulus Division");
+    printf ("1.Addition 2.substraction 3.Multiplication 4.Division 5.Modulus Division\n");
     scanf("%d",&operator);
-    printf("Enter two numbers");
+    printf("Enter two numbers\n");
     scanf("%d%d",&a,&b);
     switch(operator)
     {
