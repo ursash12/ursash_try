@@ -146,7 +146,7 @@ int main()
    break;
    case 4 :  printf("WELCOME TO PROGRAMMING QUIZ GAME\n");
     printf("Answer the following questions:-\n");
-    printf("Which is not a data type in C?");
+    printf("Which is not a data type in C?\n");
     printf("1.float\n 2.int\n 3.char\n 4.switch\n ");
     scanf("%d",&aj);
     if(aj==4)
