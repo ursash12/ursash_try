@@ -148,7 +148,7 @@ int main()
     printf("Answer the following questions:-\n");
     printf("Which is not a data type in C?");
     printf("1.float\n 2.int\n 3.char\n 4.switch\n ");
-    scanf("%d",aj);
+    scanf("%d",&aj);
     if(aj==4)
     {
         printf("YOU ARE CORRECT");
@@ -156,7 +156,7 @@ int main()
     }
     printf("Which is a data type in C?");
     printf("1.float\n 2.case\n 3.floor\n 4.switch\n ");
-    scanf("%d",bj);
+    scanf("%d",&bj);
     if(bj==1)
     {
         printf("YOU ARE CORRECT");
@@ -164,7 +164,7 @@ int main()
     }
     printf("Which is a bitwise operator in C?");
     printf("1.&&\n 2.++\n 3.==\n 4.$$\n ");
-    scanf("%d",cj);
+    scanf("%d",&cj);
     if(cj==1)
     {
         printf("YOU ARE CORRECT");
@@ -172,7 +172,7 @@ int main()
     }
     printf("Which is a not bitwise operator in C?");
     printf("1.&&\n 2.||\n 3.!\n 4.==\n ");
-    scanf("%d",dj);
+    scanf("%d",&dj);
     if(dj==4)
     {
         printf("YOU ARE CORRECT");
@@ -180,7 +180,7 @@ int main()
     }
     printf("Which is the following is a relational operator in c?");
     printf("1.>\n 2. (\n 3. ^\n 4. &\n");
-    scanf("%d",ej);
+    scanf("%d",&ej);
     if(ej==1)
     {
         printf("YOU ARE CORRECT");
